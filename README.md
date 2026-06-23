@@ -6,7 +6,7 @@ Threadly is a modern full-stack social media application built using the MERN St
 
 ### Frontend
 
-https://threadly-a-social-app.vercel.app/
+https://threadly-a-social-app-2o3p.vercel.app/
 
 ### Backend API
 
